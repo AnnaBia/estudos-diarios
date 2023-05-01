@@ -1,9 +1,9 @@
 ```
 traço + espaço + conchetes
 • Exemplo:
-- [] Arrumar home do site
+-[] Arrumar home do site
 ```
-- [] Arrumar home do site
+-[] Arrumar home do site
 
 
 ```
