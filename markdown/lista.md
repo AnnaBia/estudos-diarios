@@ -15,8 +15,11 @@ dois espaço + traço ( - )
   - Subitem do item 1
   - Subitem do item 1
 ```
+- Item 1
   - Subitem do item 1
   - Subitem do item 1
+- Item 2
+- Item 3
 
 
 ```
