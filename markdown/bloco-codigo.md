@@ -14,20 +14,7 @@ useEffect(() => {
 },[])
 ```
 
-```php
-useEffect(() => {
-
-},[])
-```
-```
-
 ```js
-useEffect(() => {
-
-},[])
-```
-
-```php
 useEffect(() => {
 
 },[])
