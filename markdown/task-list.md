@@ -3,7 +3,7 @@ traço + espaço + conchetes com espaço
 • Exemplo:
 -[ ] Arrumar home do site
 ```
-- [ ]Arrumar home do site
+- [ ] Arrumar home do site
 
 
 ```
