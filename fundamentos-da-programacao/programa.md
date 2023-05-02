@@ -1,32 +1,16 @@
-O que é *PROGRAMAR*?
+Diferença entre _software_ e _program_?
 
 
-É se comunicar com a máquina. Entender sobre algoritmos e entender a lógica de programação
+_Software_: Programa de computador
 
 
-- Algoritmos:
-  - Passos para resolver um problema
-  - Sequência lógica
-- Lógica de programação: 
-  - Aplicação dos passos
-  - Construção do algoritmo
-1. Como o computador pensa/entende?
-  - Não pensa, processa, calcula
-  - Só recebe ordens num formato que ele possa entender (Linguagem de Programação)
-  - Você precisa entender o problema e dar as ordens
----
-_Dar instruções_ é como fazer uma receita de bolo
-- Dados (tipos):
-  - String: sequência de caracteres
-  - Numérico
-  - Booleano: Verdadeiro ou falso
-- Manipulação dos dados (transformação)
+*_Program_: Programa de computador ou aplicativo*
 
 
-> a cada passo é necessário ser detalhista, se não o computador não entende, pois ele somente processa
+Um programa é um conjunto de instruções que descrevem uma tarefa e/ou trabalho específico no seu computador
 
 
-_Resolver Problemas_
+São ferramentas desenhadas para o usuário realizar ações
 
 
-__O PRIMEIRO PASSO É ENTENDER O PROBLEMA__
+Exemplos: Discord, pacote office
