@@ -1,0 +1,76 @@
+<!-- COMENTÁRIOS -->
+
+<!-- ANATOMIA DE UM DOCUMENTO HTML -->
+<!DOCTYPE html>
+<!-- indica ao navegador que estamos trabalhando com html5 -->
+<html>
+    <head></head>
+    <body>
+        <h1>Um título</h1>
+        Um texto
+        <!--
+			Elementos vazios são aqueles que não precisam de tag de fechamento
+		-->
+        <img src="conteudo" alt="texto" />
+        <!--
+			Atributo booleano
+		-->
+        <input type="text" disabled /> <!-- 'input' cria um campo de formulario, 'disable' desabilita o campo -->
+
+        <a href="https://google.com" title="usar sempre aspas duplas">link</a>
+
+        <!-- Atributo globais são aqueles aplicados em todas as tags
+			Mais utilizados:
+		-->
+        <div class="carrinho"></div><!-- 'class' para aplicações css, classificar e acessar no java script -->
+
+        <div contenteditable="true">modificação</div><!-- 'contenteditable' permiti editar o conteúdo na pagina, mas ao carregar a pagina ele perde as formatações -->
+        <div data-qualquer-nome>qualquer nome</div><!-- 'data-' permite nomear o nome do atributo -->
+        <div style="color: red">oi</div><!-- 'style' permite estilizar no html -->
+
+        <!-- 'tabindex' permite andar na pagina com o tab, o numero da posição indica a ordem de apresentação -->
+        <div tabindex="3">tab</div>
+        <div tabindex="2">tab</div>
+        <div tabindex="1">tab</div>
+
+        <div title="defini titulo">hi</div>
+
+        <!--
+			Alinhamento de tags
+		-->
+		<!-- 
+			<em> itálico
+			<strong> negrito
+		-->
+        <p>
+            Vou <em>escrever um parágrafo</em> ainda se eu tivesse
+            <strong>texto</strong> aqui
+        </p>
+        <p>
+            Esse é um <a href="">novo</a> parágrafo <br />
+            com <b>quebra de linha</b>.
+        </p>
+
+		<!-- Caracteres reservados -->
+        <!-- < --> &lt;
+        <!-- > --> &gt;
+        <!-- &--> &amp;
+        <!-- " --> &quot;&quot;
+        <!-- ' --> &apos;&apos;
+
+        <!-- 
+			Praticando
+			Escrever 2 parágrafos, dando ênfase e importância para algumas palavras, e adicione um link de saiba mais.
+			- use a tag <em> para ênfase
+			- use a tag <strong> para importância
+			- o link pode levar para o google
+		-->
+        <p>
+            &nbsp;&nbsp;&nbsp;Olá me chano Ana Beatriz, mas podem me chamar de
+            <strong>Ana Bia</strong>.
+        </p>
+        <p>
+            Estou iniciando minha carreira como dev <em>full-stack</em>...Acompanhe meus avanços através do meu<a href="https://github.com/AnnaBia">github</a>.
+        </p>
+    </body>
+</html>
