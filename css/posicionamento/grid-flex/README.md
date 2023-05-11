@@ -1,1 +1,1 @@
-![Exemplo Grid + Flexbox](https://imgur.com/GqFCzpt "Exemplo Grid + Flexbox")
+![Exemplo Grid + Flexbox](https://imgur.com/GqFCzpt.png "Exemplo Grid + Flexbox")
