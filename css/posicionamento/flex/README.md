@@ -18,4 +18,4 @@ div.parent {
 - justify-content
 - align-items
 
-[Imgur](https://i.imgur.com/yiTwIQE.png)
+![Exemplo Flexbox](https://i.imgur.com/yiTwIQE.png "Exemplo Flexbox")

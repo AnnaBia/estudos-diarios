@@ -5,4 +5,4 @@
 - Pode ser flexível ou fixo
 - Cria espaço para os elementos filhos habitarem
 
-[Imgur](https://i.imgur.com/2h0EKf8.png)
+![Exemplo Grid](https://i.imgur.com/2h0EKf8.png "Exemplo Grid")
