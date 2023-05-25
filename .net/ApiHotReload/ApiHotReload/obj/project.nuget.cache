@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDyDwvvgu7767GHX6i6C+FFKYQGdI7o/Che6+QEjcahfFBG0R1XDokvSxWRGmuIBRoGmowhll0r2SA1ziSYWJA==",
+  "success": true,
+  "projectFilePath": "C:\\Rocketseat\\guia de aprendizagem\\.net\\ApiHotReload\\ApiHotReload\\ApiHotReload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bia_e\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bia_e\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bia_e\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bia_e\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bia_e\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bia_e\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

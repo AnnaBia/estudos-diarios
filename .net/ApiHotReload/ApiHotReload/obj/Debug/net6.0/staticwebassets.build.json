@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8/HX7xh38lht0uNzvI+RYww8Td1y8+p/R6AnaOuPTJc=",
+  "Source": "ApiHotReload",
+  "BasePath": "_content/ApiHotReload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
